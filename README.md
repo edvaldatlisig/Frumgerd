@@ -1,0 +1,2 @@
+# Frumgerd
+Frumgerð af lokaverkefninu
